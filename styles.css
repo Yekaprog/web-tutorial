@@ -1,0 +1,30 @@
+body {
+  font-family: "Arial", sans-serif;
+  margin: auto;
+}
+
+main {
+  margin: auto;
+  width: 70vw;
+  padding: 2em;
+  box-shadow: 1px 1px 5px 1px #c7c7c7;
+}
+
+.two-columns {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+footer {
+  background-color: rgb(33, 33, 73);
+  color: white;
+  padding: 4em;
+}
+
+footer a {
+  color: white;
+}
+
+header.super-encabezado img {
+  width: 100%;
+}
