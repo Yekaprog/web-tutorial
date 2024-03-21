@@ -10,7 +10,7 @@ main {
   box-shadow: 1px 1px 5px 1px #c7c7c7;
 }
 
-.two-columns {
+.dos-columnas {
   display: grid;
   grid-template-columns: 1fr 1fr;
 }
